@@ -1,8 +1,11 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
-theme: "just-the-docs"
+title: Just the Docs Template Test
+description: Temporary, fur testing only
+theme: just-the-docs
 
-url: 'https://just-the-docs.github.io'
+url: https://pdmosses.github.io/just-the-docs-template-test
 
 aux_links:
-  "Template Repository": "https://github.com/just-the-docs/just-the-docs-template"
+  Test Repository: https://github.com/pdmosses/just-the-docs-template-test
+
+plugins:
+  - jekyll-default-layout

@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem "jekyll", "~> 4.2" # installed by `gem jekyll`
-gem "webrick"          # required when using Ruby >= 3
+gem "jekyll", "~> 4.3" # installed by `gem jekyll`
 
 gem "just-the-docs", "0.4.0.rc3"
+gem "jekyll-default-layout"
